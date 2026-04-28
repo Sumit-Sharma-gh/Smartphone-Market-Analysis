@@ -30,20 +30,20 @@ This project presents a complete data analysis pipeline using SQL, Python (Panda
 ## 📸 Dashboard Preview
 
 ### Overview
-![Overview](Screenshots/overview.png)
+![Overview](Screenshots/1.Overview.png)
 
 ### Brand Analysis
-![Brand](Screenshots/brand.png)
+![Brand](Screenshots/2.Brand_Analysis.png)
 
 ### Price Analysis
-![Price](Screenshots/price.png)
+![Price](Screenshots/3.Price_Analysis.png)
 
 ### Feature Analysis
-![Feature](Screenshots/feature.png)
+![Feature](Screenshots/4.Feature_Analysis.png)
 
 ### Top Phones
-![Top Phones](Screenshots/topphones.png)
+![Top Phones](Screenshots/5.Top_Phones.png)
 
 ### Insights
-![Insights](Screenshots/insights.png)
+![Insights](Screenshots/5.Insights.png)
 
